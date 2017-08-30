@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+}
+
+@font-face {
+  font-family: "Las locuras del emperador";
+  src: url("Las locuras del emperador.TTF") format("opentype");
+}
+
+.seccion1 {
+  background-color: #a1253a;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.seccion2 {
+  background-color: #178bbd;
+  text-align: center;
+  padding: 10px;
+}
+
+.seccion3 {
+  background-image: url("cuzco2.jpg");
+  text-align: right;
+  min-height: 250px;
+}
+
+.seccion4 {
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #F0aa41;
+  font-family: "Las locuras del emperador";
+}
+
+.textoblanco {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  font-family: "Las locuras del emperador";
+}
+
+.precios {
+  font-family: "Las locuras del emperador";
+}
